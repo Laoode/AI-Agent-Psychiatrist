@@ -28,7 +28,7 @@ The concern is that people with suicidal thoughts often hide their stress, makin
 In the USA have mental health call center (988) for people who are in crisis and may have suicidal thoughts.
 
 <div align="center">
-  <img src="https://github.com/Laoode/AI-Agent-Psychiatrist/blob/main/assets/988-contacts-data.webp" alt="banner">
+  <img src="https://github.com/Laoode/AI-Agent-Psychiatrist/blob/main/assets/988-contacts-data.webp" alt="988 contacts data">
 </div>
 
 Based on data 988 lunch in 2022 and have big impact in USA for someone with anxiety and suicidal ideation. We can see most 988 reached by calls which the people have suicidal, it means they comfort to talking rather text or chats.
@@ -54,14 +54,14 @@ We will use LLM as the base model for generated answer based on question and imp
 In this case we will using model LLM as local model or running with our server not third party cause the healthcare is very risky. So what is the best model to solve tasks about mental health it means healthcare filed?
 
 <div align="center">
-  <img src="https://github.com/Laoode/AI-Agent-Psychiatrist/blob/main/assets/evaluating-llm-healthcare.webp" alt="banner">
+  <img src="https://github.com/Laoode/AI-Agent-Psychiatrist/blob/main/assets/evaluating-llm-healthcare.webp" alt="evaluating llm">
 </div>
 
 According research Standford Medicine, to pick best LLM model for healthcare can using framework which called  [MedHELM](https://crfm.stanford.edu/helm/medhelm/latest/), HELM standing for holistic evaluation of language models. It's a resource for accurate and reliable evaluations of LLMs, supporting the core principles that power the [RAISE Health](https://med.stanford.edu/raisehealth.html) Initiative.
 Shah discussed how MedHELM is best used, how it can help researchers adapt and create their own models, and why it's crucial to evaluate LLMs in the context in which they're used. This interview was edited for clarity and length.
 
 <div align="center">
-  <img src="https://github.com/Laoode/AI-Agent-Psychiatrist/blob/main/assets/medhelm.webp" alt="banner">
+  <img src="https://github.com/Laoode/AI-Agent-Psychiatrist/blob/main/assets/medhelm.webp" alt="medhelm">
 </div>
 
 Based on MedHELM evaluation the best model llm to using for medical or healthcare task is DeepSeek R1 as rank 1 with mean win rate 0.663. So in this case, we will DeepSeek R1 model to fine tuning the model with our data sets about mental health with LORA technique. [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948). With capability of LLM combined with Reinforcement Learning, makes the DeepSeek can outperform to with others model.
@@ -73,5 +73,5 @@ Low-Rank Adaptation (LoRA) method is a fine-tuning method introduced by a team o
 ## Data Collection
 This project utilizes data scraped from Counselchat.com, an expert community platform where licensed clinical counselors respond to user questions. This [dataset](https://huggingface.co/datasets/nbertagnolli/counsel-chat), collected on 20220401, provides a unique view into expert-client interactions, featuring responses from therapists to questions posed by individuals. 
 <div align="center">
-  <img src="https://github.com/Laoode/AI-Agent-Psychiatrist/blob/main/assets/datasets.webp" alt="banner">
+  <img src="https://github.com/Laoode/AI-Agent-Psychiatrist/blob/main/assets/datasets.png" alt="dataset">
 </div>
