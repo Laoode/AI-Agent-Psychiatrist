@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=500&size=29&duration=1&pause=1000&color=000000&background=601EF9&vCenter=true&repeat=false&width=990&lines=AI+Agent+Psychiatrist+for+Mental+Health" alt="Typing SVG" /></h1>
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=500&size=27&duration=1&pause=1000&color=000000&background=0D98BA&vCenter=true&repeat=false&width=990&lines=AI+Agent+Psychiatrist+for+Mental+Health+:+Fine-Tuned+With+LoRA+on+DeepSeek+R1" alt="Typing SVG" /></h1>
 
 <div align="center">
   <img src="https://github.com/Laoode/AI-Agent-Psychiatrist/blob/main/assets/banner.gif" alt="banner">
