@@ -1,0 +1,11 @@
+## Mental Health FAQ for Chatbot
+Link: https://www.kaggle.com/datasets/narendrageek/mental-health-faq-for-chatbot
+
+##  heliosbrahma/mental_health_chatbot_dataset
+https://huggingface.co/datasets/heliosbrahma/mental_health_chatbot_dataset
+
+## Amod/mental_health_counseling_conversations
+https://huggingface.co/datasets/Amod/mental_health_counseling_conversations
+
+## mpingale/mental-health-chat-dataset
+https://huggingface.co/datasets/mpingale/mental-health-chat-dataset
